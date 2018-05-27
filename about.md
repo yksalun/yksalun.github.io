@@ -11,7 +11,3 @@ title: 关于我
 <p>
 后端技术：skynet、mongo
 
-<p>
-
-{% include comments.html %}
-
